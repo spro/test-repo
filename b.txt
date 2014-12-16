@@ -1,1 +1,0 @@
-The file called b.txt contains the characters you can see here.
