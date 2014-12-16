@@ -1,0 +1,1 @@
+Here we have a file, called c.txt, that contains some contents.
