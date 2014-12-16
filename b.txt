@@ -1,1 +1,1 @@
-The file b.txt contains the characters you can see here.
+The file called b.txt contains the characters you can see here.
